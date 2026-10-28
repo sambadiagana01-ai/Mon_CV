@@ -5,7 +5,7 @@ Un petit CV en React avec trois parties : **infos personnelles**, **expériences
 ## Les étapes
 
 1. **Créer le projet** avec Vite :
-   ```bash
+   ```bash 
    npm create vite@latest 001 -- --template react
    ```
 2. **Entrer dans le dossier et installer** :
